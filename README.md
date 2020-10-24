@@ -6,8 +6,8 @@
  - [Deployed Link]()
 
 ## Screen Shots
-![home]()
-![home]()
+![home](https://github.com/EdenKhaos/17-Workout-Tracker/blob/main/public/assets/screen1.JPG)
+![home](https://github.com/EdenKhaos/17-Workout-Tracker/blob/main/public/assets/screen2.JPG)
 ## Tech Used
 - HTML
 - CSS
