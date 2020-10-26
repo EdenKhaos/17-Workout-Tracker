@@ -3,7 +3,7 @@
 
 ## Link
 
- - [Deployed Link]()
+ - [Deployed Link](https://workout-app17.herokuapp.com/)
 
 ## Screen Shots
 ![home](https://github.com/EdenKhaos/17-Workout-Tracker/blob/main/public/assets/screen1.JPG)
